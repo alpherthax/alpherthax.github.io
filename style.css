@@ -1,17 +1,17 @@
 h1,h2,h3,h4,h5,h6 {
   color: #265ea3;
-  font-family: 'PFStardust';
+  font-family: 'dalmoori';
   line-height: 130%;
   text-align: center;
 }
 p,div,li,summary,button {
   color: #265ea3;
-  font-family: 'PFStardust';
+  font-family: 'dalmoori';
   line-height: 130%;
 }
 a {
   color: #3e95ff;
-  font-family: 'PFStardust';
+  font-family: 'dalmoori';
   line-height: 130%;
 }
 td,th{
@@ -22,8 +22,8 @@ table{
 }
 
 @font-face {
-    font-family: 'PFStardust';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/PFStardust.woff') format('woff');
+    font-family: 'dalmoori';
+    src: url('https://github.com/alpherthax/Kyaraxtars/blob/style/dalmoori.woff') format('woff');
     font-weight: nomal;
     font-style: normal;
 }
