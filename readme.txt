@@ -15,7 +15,7 @@
 
   <사이트 소스 이용 관련>
   1. 외부 자료의 저작권은 각 저작자에게 있습니다.
-  2. 사이트 자체와 관련된 소스는 https://github.com/alpherthax/kyaraxtars 에 있습니다.
+  2. 사이트 자체와 관련된 소스는 https://github.com/alpherthax/kyaraxtars 에 있습니다.(소스 페이지에서 해당 글을 보신다면 무시해주세요.)
   3.
   4.
   5.
@@ -27,8 +27,11 @@
 
 
 
-  <그 외>
-
+  <사용된 외부 소스>
+  * 폰트
+      달무리: https://ranolp.github.io/dalmoori-font/
+  * 커서
+      HEART CHAT BUBBLE: https://www.cursors-4u.com/cursor/2011/12/29/heart-chat-bubble.html
 
 
   <글을 마치며>
