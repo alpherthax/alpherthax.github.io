@@ -1,0 +1,31 @@
+h1,h2,h3,h4,h5,h6 {
+  color: #265ea3;
+  font-family: 'dalmoori';
+  line-height: 130%;
+  text-align: center;
+}
+p,div,li,summary,button {
+  color: #265ea3;
+  font-family: 'dalmoori';
+  line-height: 130%;
+}
+a {
+  color: #3e95ff;
+  font-family: 'dalmoori';
+  line-height: 130%;
+}
+td,th{
+  padding: 20px;
+}
+table{
+  align: center;
+}
+
+@font-face {
+    font-family: 'dalmoori';
+    src: url('https://github.com/alpherthax/kyaraxtars/blob/style/dalmoori.woff') format('woff');
+    font-weight: nomal;
+    font-style: normal;
+}
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat993.cur), auto !important;} /* End https://www.cursors-4u.com */
