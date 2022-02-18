@@ -28,8 +28,3 @@
       HEART CHAT BUBBLE: https://www.cursors-4u.com/cursor/2011/12/29/heart-chat-bubble.html
   * 모르는 HTML 및 CSS 요소 참고
       TCP scool: http://www.tcpschool.com/
-
-
-
-  <글을 마치며>
-  긴 글 읽어주셔서 감사합니다.
