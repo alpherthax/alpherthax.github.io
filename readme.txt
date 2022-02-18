@@ -16,7 +16,7 @@
 
   <사이트 소스 이용 관련>
   1. 외부 자료의 저작권은 각 저작자에게 있습니다.
-  2. 사이트 자체와 관련된 소스는 https://github.com/alpherthax/kyaraxtars 에 있습니다.(소스 페이지에서 해당 글을 보신다면 무시해주세요.)
+  2. 사이트 자체와 관련된 소스는 https://github.com/alpherthax/kyaraxtars 에 있습니다.
   3. 여러분께서 페이지를 만드실 때 참고하셔도 됩니다.
 
 
