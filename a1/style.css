@@ -1,0 +1,24 @@
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'dalmoori';
+}
+p,div,li,summary,button {
+  font-family: 'dalmoori';
+}
+a {
+  font-family: 'dalmoori';
+}
+td,th{
+  padding: 20px;
+}
+table{
+  align: center;
+}
+
+@font-face {
+    font-family: 'dalmoori';
+    src: url('https://github.com/alpherthax/kyaraxtars/blob/style/dalmoori.woff') format('woff');
+    font-weight: nomal;
+    font-style: normal;
+}
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat993.cur), auto !important;} /* End https://www.cursors-4u.com */
