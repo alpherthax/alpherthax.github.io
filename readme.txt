@@ -28,3 +28,5 @@
       HEART CHAT BUBBLE: https://www.cursors-4u.com/cursor/2011/12/29/heart-chat-bubble.html
   * 모르는 HTML 및 CSS 요소 참고
       TCP scool: http://www.tcpschool.com/
+  * 클론다이크 페이지
+      Solitaire-js: https://codepen.io/bfa/pen/ggGYeE
