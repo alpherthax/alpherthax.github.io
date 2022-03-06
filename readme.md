@@ -23,7 +23,6 @@
 
   <사용된 외부 자료>
   * 폰트
-      달무리: https://ranolp.github.io/dalmoori-font/
       Silver: https://poppyworks.itch.io/silver
   * 커서
       HEART CHAT BUBBLE: https://www.cursors-4u.com/cursor/2011/12/29/heart-chat-bubble.html
