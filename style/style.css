@@ -24,6 +24,8 @@ h4 {
     text-align: center;
 }
 
-p {
-  font-size: 20px;
+table {
+    border: 5px solid #3e94e1;
+    content: #fff;
+    margin: 10px auto;
 }
