@@ -11,7 +11,7 @@
 
 body {
   background-color: #d6f0ff;
-  background-image: url("../../media/examples/lizard.png");
+  background-image: url("./backgroundpattern.png");
 }
 
 h1 {
