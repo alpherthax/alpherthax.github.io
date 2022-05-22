@@ -1,5 +1,6 @@
 body {
-  background-color: lightblue;
+  background-color: #d6f0ff;
+  background-image: url("../../media/examples/lizard.png");
 }
 
 h1 {
