@@ -1,7 +1,12 @@
-<link href="https://github.com/alpherthax/arcaspai/blob/main/souces/Galmuri11.woff2?raw=true">
+@font-face {
+    font-family: 'Galmuri11';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/Galmuri11.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 * {
-  font-family: Galmuri11;
+  font-family: "Galmuri11";
 }
 
 body {
