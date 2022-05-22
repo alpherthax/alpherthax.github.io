@@ -29,3 +29,7 @@ table, td, tr {
     background: #fff;
     margin: 10px auto;
 }
+
+hr {
+   border: 5px dashed #122d42; 
+}
