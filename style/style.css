@@ -7,11 +7,11 @@
 
 * {
   font-family: "Galmuri11";
-  color: #122d42;
+  color: #214b6b;
 }
 
 body {
-  background-color: #d6f0ff;
+  background-color: #d0d7e3;
   background-image: url("backgroundpattern.png");
 }
 
@@ -25,7 +25,7 @@ h4 {
 }
 
 table {
-    border: 3px solid #d6f0ff;
+    border: 3px solid;
     background: #fff;
     margin: 10px auto;
     width: 900px;
