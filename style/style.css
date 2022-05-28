@@ -29,7 +29,7 @@ table {
     background: #fff;
     margin: 10px auto;
     width: 900px;
-    padding: 1%
+    padding: 1%;
 }
 
 hr {
@@ -45,4 +45,5 @@ button {
     background: #3e94e1;
     text-align: center;
     color: #fff;
+    padding: 1%;
 }
