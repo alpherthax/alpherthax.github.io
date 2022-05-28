@@ -35,3 +35,7 @@ table {
 hr {
    border: 2px dashed #3e94e1; 
 }
+
+details {
+    margin: 10px auto;
+}
