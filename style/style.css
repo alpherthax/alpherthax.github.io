@@ -47,3 +47,5 @@ button {
     color: #fff;
     padding: 2%;
 }
+
+.link:hover { curosr : url(bluetag.ani), auto; }
