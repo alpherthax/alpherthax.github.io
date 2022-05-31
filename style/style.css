@@ -8,6 +8,7 @@
 * {
   font-family: "DOSSaemmul";
   color: #214b6b;
+  cur : url(bluetag.ani), auto;
 }
 
 body {
@@ -47,5 +48,3 @@ button {
     color: #fff;
     padding: 2%;
 }
-
-.link:hover { curosr : url(bluetag.ani), auto; }
