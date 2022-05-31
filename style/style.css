@@ -8,7 +8,7 @@
 * {
   font-family: "DOSSaemmul";
   color: #214b6b;
-  cursor : url(bluetag.ani), auto;
+  cursor : url("bluetag.ani"), auto;
 }
 
 body {
