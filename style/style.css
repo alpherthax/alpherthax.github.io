@@ -8,8 +8,9 @@
 * {
   font-family: "DOSSaemmul";
   color: #214b6b;
-  cursor : url(bluetag.ani), auto !important;
+  cursor : url(bluetag.ani), url(bluetag.cur), auto !important;
 }
+
 body {
   background-color: #d0d7e3;
   background-image: url("backgroundpattern.png");
