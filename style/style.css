@@ -43,7 +43,8 @@ details {
 
 button {
     border: 0px;
-    background: #ffffff;
+    background: #3e94e1;
     text-align: center;
-    padding:0px;
+    color: #fff;
+    padding: 2%;
 }
